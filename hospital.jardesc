@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/cq/Desktop/医院病床管理系统.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/hospital/hospital.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=hospital/src&lt;com.keshe.view{SickbedManagermentLoginFrm.java[SickbedManagermentLoginFrm" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=hospital/src"/>
+        <folder path="/hospital/libs"/>
+        <file path="/hospital/manifest.mf"/>
+        <file path="/hospital/.classpath"/>
+    </selectedElements>
+</jardesc>
